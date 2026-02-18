@@ -4,3 +4,4 @@ bonus=500
 total_salary=basic_salary+hra+bonus
 print("Total_Hra :",hra)
 print("Total monthly salary:",total_salary)
+
