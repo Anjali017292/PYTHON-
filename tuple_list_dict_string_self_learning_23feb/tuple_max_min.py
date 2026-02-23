@@ -1,8 +1,8 @@
 # Input numbers and store them in a tuple
 t = tuple(map(int, input("Enter numbers separated by space: ").split()))
-
+# Find the maximum and minimum numbers in the tuple
 print("Tuple:", t)
-
+# Output:
 print("Maximum number:", max(t))
 print("Minimum number:", min(t))
 
