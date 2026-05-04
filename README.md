@@ -70,7 +70,8 @@ The goal of this project is to transform raw sales data into a **visual dashboar
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](output.png)
+
 
 ---
 
@@ -102,4 +103,4 @@ Created an interactive sales dashboard using Pivot Tables, charts, and KPI metri
 ## 👩‍💻 Author
 
 Anjali Rathi
-(BCA Student | Aspiring Developer)
+(MCA Student | Aspiring Developer)
